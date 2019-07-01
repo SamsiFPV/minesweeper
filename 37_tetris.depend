@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1561321590 source:c:\users\raphael\onedrive\codeblocks\unidentified_c\37_tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1561991753 source:c:\users\rapha\onedrive\codeblocks\unidentified_c\37_tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1561994163 source:c:\users\marlo\downloads\37_tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
